@@ -1,0 +1,157 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-banner{
+  height: 100vh;
+  width: 100%;
+}
+h1{
+  font-size:30px;
+  font-weight:bold;
+  color: #707070;
+ 
+}
+span{
+  color: #FBA24F;
+}
+.flexible-container{
+  display: flex;
+}
+.half-width{
+  width: 60%;
+  padding-left: 15%;
+  padding-top: 10%;
+  font-size: 20px;
+}
+p{
+  font-size:12px ;
+  margin-bottom: 10%;
+}
+.half img{
+  width: 55%;
+  padding-left: 30%;
+  padding-top: 5%;
+}
+.link-button{
+  
+  text-decoration: none;
+  padding: 15px 40px;
+  border-radius:20px;
+  color: white;
+  font-size:15px;
+  background-color:#FC773E
+}
+.link-button:hover{
+  
+}
+.half-about img{
+  width:40%;
+  padding-left:20%;
+  padding-right:px;
+  padding-top:20px;
+  margin-top:30px;
+}
+.about-section{
+  width: 60%;
+  padding-top:50px;
+  font-size: 20px;
+  padding-right:50px;
+  
+}
+.ancor-button{
+  text-decoration: none;
+  padding: 15px 40px;
+  border-radius:20px;
+  color: white;
+  font-size:15px;
+  background-color:#FC773E
+}
+.title{
+  font-size:50px;
+  color: #707070;
+}
+.text-p{
+  font-size:19px;
+  
+}
+.about-banner{
+  height: 100vh;
+  width: 100%;
+  background-image: url(images/shapes/7.png);
+}
+.my-title{
+ text-align: center;
+ font-size: 50px;
+}
+.text-service{
+  text-align: center;
+  font-size:15px;
+}
+.half-service{
+margin-bottom: 10%;
+  width:30%;
+  align-items: center;
+  margin-left:12%;
+  margin-right: %;
+box-shadow: 10px 10px 40px gray;
+border-radius: 5%;
+
+
+  
+}
+.name{
+  margin: 10px;
+}
+.description{
+  margin: 10px;
+}
+.photo img{
+  width: 95%;
+ padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  align-items: center;
+  margin: 10 px;
+}
+.prize{
+  display: flex;
+  align-items: center;
+ 
+
+}
+.first{
+  padding-left: 10%;
+  width: 25%;
+}
+.second{
+  width: 25%;
+  padding-left: 10%;
+}
+.third{
+  width: 25%;
+  padding-left: 10%;
+}
+.boxbus{
+  box-shadow: 1px 1px 2px 1px gray;
+  margin-left:10% ;
+  margin-right: 15%;
+  padding: 5px;
+}
+footer
+{
+  background-color: black;
+  padding-bottom: 2%;
+  height: 80px;
+
+}
+.footb-text{
+  color: #5B5B5B;
+  text-align: center;
+  padding-top:1%;
+}
+.footlow-text{
+color:gray;
+text-align: center;
+}
+.faka{
+  padding-top: 7%;
+}
